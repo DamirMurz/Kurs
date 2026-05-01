@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Погода Курс</string>
+    <string name="search_placeholder">Поиск города...</string>
+    <string name="forecast_7_days">Прогноз на неделю</string>
+    <string name="now">Сейчас</string>
+    <string name="loading">Загрузка...</string>
+    <string name="today_weather">Погода: %s</string>
+    <string name="back">Назад</string>
+    <string name="delete">Удалить</string>
+</resources>

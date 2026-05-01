@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Kurs</string>
+    <string name="app_name">Weather Kurs</string>
+    <string name="search_placeholder">Search city...</string>
+    <string name="forecast_7_days">7-Day Forecast</string>
+    <string name="now">Now</string>
+    <string name="loading">Loading...</string>
+    <string name="today_weather">Weather: %s</string>
+    <string name="back">Back</string>
+    <string name="delete">Delete</string>
 </resources>
